@@ -181,13 +181,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  # portfolio:
-  #   output: true
-  #   permalink: /:collection/:path/
-  talks:
+  portfolio:
     output: true
     permalink: /:collection/:path/
-  books:
+  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -247,14 +244,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _books
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  
 
 # Sass/SCSS
 sass:

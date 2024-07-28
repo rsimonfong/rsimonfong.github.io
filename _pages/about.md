@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a Post Doctoral Research Fellow of [Peter Tino](https://www.cs.bham.ac.uk/~pxt/) at the [School of Computer Science](https://www.birmingham.ac.uk/schools/computer-science) of [University of Birmingham](http://www.birmingham.ac.uk), UK. 
+Hello, I am a Postdoctoral Research Fellow at the [School of Computer Science](https://www.birmingham.ac.uk/schools/computer-science) of [University of Birmingham](http://www.birmingham.ac.uk), UK. 
 
 Research
 ======

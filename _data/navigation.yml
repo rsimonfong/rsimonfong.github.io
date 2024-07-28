@@ -13,5 +13,5 @@ main:
     url: /teaching/    
         
   - title: "CV"
-    url: /cv/
+    url: https://nbviewer.org/github/rsimonfong/rsimonfong.github.io/blob/67060501ae31f64173eae80ec1ab87641a2ecf4b/files/RSF_CV.pdf
 

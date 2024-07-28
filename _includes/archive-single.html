@@ -47,10 +47,11 @@
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}
       {% if post.coauthor %}
-      <p>Joint work with {{post.coauthor}}</p>
+      <p> Joint work with {{post.coauthor}}</p>
       {% endif %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    </p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
       {% if post.coauthor %}
       <p>Joint work with {{post.coauthor}}</p>

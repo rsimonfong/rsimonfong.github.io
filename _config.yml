@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Robert Simon Fong"
-  avatar           : "../images/profile.jepg"
+  avatar           : "images/profile.jepg"
   bio              : "Research Fellow @ University of Birmingham"
   location         : "Birmingham, UK"
   employer         :

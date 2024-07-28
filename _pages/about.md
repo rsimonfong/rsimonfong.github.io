@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Testing changes
+Hello, I am Simon, a Post Doctoral Research Fellow at the University of Birmingham with [Peter Tino](https://www.cs.bham.ac.uk/~pxt/). 
+
+My research focuses on bridging the theoretical and applied aspects of optimization methods,
+statistics, information theory and geometry.
 
 
 A data-driven personal website

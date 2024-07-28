@@ -7,11 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Simon, a Post Doctoral Fellow of [Peter Tino](https://www.cs.bham.ac.uk/~pxt/) at the [School of Computer Science](https://www.birmingham.ac.uk/schools/computer-science) of [University of Birmingham](http://www.birmingham.ac.uk), UK. 
+Hello, I am a Post Doctoral Research Fellow of [Peter Tino](https://www.cs.bham.ac.uk/~pxt/) at the [School of Computer Science](https://www.birmingham.ac.uk/schools/computer-science) of [University of Birmingham](http://www.birmingham.ac.uk), UK. 
 
+Research
+======
 My research focuses on bridging the theoretical and applied aspects of optimization methods,
-statistics, information theory and geometry.
+dynamical systems, information theory and geometry.
 
+Keywords: Optimization, Information Geometry, Differential Geometry, Reservoir Computing
 <!-- 
 A data-driven personal website
 ======

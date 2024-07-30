@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<meta name="google-site-verification" content="DQsPHAXqnGaB-_gDcPvj3juRXS7QjHNBQWfHgD4PmMc" />
-
 Hello, I am a Postdoctoral Research Fellow at the [School of Computer Science](https://www.birmingham.ac.uk/schools/computer-science) of [University of Birmingham](http://www.birmingham.ac.uk), UK. 
 
 Research

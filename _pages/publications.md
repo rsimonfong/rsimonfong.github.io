@@ -12,24 +12,25 @@ author_profile: true
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <div> <h2>{{ category[1].title }}</h2><hr /></div>
-        {% assign title_shown = true %}
-      {% endunless %}
+<h2>Journal Articles</h2><hr />
+{% for post in site.publications reversed %}
+  {% if post.category == 'manuscripts' %}
       {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  {% endif %}
+{% endfor %}
+
+<h2>Conference Papers</h2><hr />
+{% for post in site.publications reversed %}
+  {% if post.category == 'conferences' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Books and Monographs</h2><hr />
+{% for post in site.publications reversed %}
+  {% if post.category == 'books' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
 
 

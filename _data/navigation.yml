@@ -1,4 +1,4 @@
-# main links links
+# main links links, top bar
 main:
   - title: "Publications"
     url: /publications/
@@ -13,5 +13,5 @@ main:
     url: /teaching/    
         
   - title: "CV"
-    url: https://nbviewer.org/github/rsimonfong/rsimonfong.github.io/blob/8e904bd94edbdbaba8abd21496d23de80338da96/files/RSF_CV.pdf
+    url: https://nbviewer.org/github/rsimonfong/rsimonfong.github.io/blob/d692eb1b348aaecb6b3ab1f1218fd6e489a4e309/files/RSF_CV.pdf
 

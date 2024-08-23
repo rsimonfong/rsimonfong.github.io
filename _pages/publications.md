@@ -12,6 +12,14 @@ author_profile: true
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
+
+<h2>Books and Monographs</h2><hr />
+{% for post in site.publications reversed %}
+  {% if post.category == 'books' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
 <h2>Journal Articles</h2><hr />
 {% for post in site.publications reversed %}
   {% if post.category == 'manuscripts' %}
@@ -26,11 +34,6 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h2>Books and Monographs</h2><hr />
-{% for post in site.publications reversed %}
-  {% if post.category == 'books' %}
-      {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+
 
 

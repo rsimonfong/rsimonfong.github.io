@@ -13,6 +13,6 @@ main:
     url: /teaching/    
         
   - title: "CV"
-    url: <a href="rsimonfong.github.io/files/RSF_CV.pdf" target="_blank">PDF.</a>
+    url: <a href="rsimonfong.github.io/files/RSF_CV.pdf" target="_blank"></a>
     # url: https://nbviewer.org/github/rsimonfong/rsimonfong.github.io/blob/e38eed4dae175408f01cbae4c4c781103d361c3d/files/RSF_CV.pdf
 

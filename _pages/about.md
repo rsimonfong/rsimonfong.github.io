@@ -17,10 +17,10 @@ mathematical rigor.
 <b>Research Focus:</b> My work bridges theoretical fields: dynamical systems, information theory, and geometry -- with applied domains such as machine learning and optimization.
 
 <b>Research Work:</b> broadly categorized into two interconnected areas:
-<ol>
+<ul style="list-style-type:disc">
 <li> Geometry, Information theory and Manifold Optimization </li>
 <li> Reservoir Computing: Universality, Operator Algebra, and Kernel Machines </li>
-</ol>
+</ul>
 <!-- My research focuses on bridging the theoretical and applied aspects of optimization methods,
 dynamical systems, information theory and geometry. -->
 

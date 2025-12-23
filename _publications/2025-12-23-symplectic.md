@@ -8,7 +8,7 @@ excerpt: 'What does symplectic conservation mean at the representational level?'
 date: 2025-12-23
 venue: 'Under Review'
 paperurl: '--'
-citation: 'https://arxiv.org/abs/2512.19409'
+citation: 'Robert Simon Fong, Gouhei Tanaka, and Kazuyuki Aihara. Symplectic reservoir representation of legendre dynamics, 2025'
 ---
 
 Modern learning systems act on internal representations of data, yet how these representations encode underlying physical or statistical structure is often left implicit. In physics, conservation laws of Hamiltonian systems such as symplecticity guarantee long-term stability, and recent work has begun to hard-wire such constraints into learning models at the loss or output level. Here we ask a different question: what would it mean for the representation itself to obey a symplectic conservation law in the sense of Hamiltonian mechanics?

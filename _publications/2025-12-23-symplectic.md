@@ -7,7 +7,7 @@ permalink: /publication/2025-12-23-symplectic
 excerpt: 'What does symplectic conservation mean at the representational level?'
 date: 2025-12-23
 venue: 'Under Review'
-paperurl: '--'
+paperurl: 'https://arxiv.org/abs/2512.19409'
 citation: 'Robert Simon Fong, Gouhei Tanaka, and Kazuyuki Aihara. Symplectic reservoir representation of legendre dynamics, 2025'
 ---
 

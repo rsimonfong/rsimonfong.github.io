@@ -20,11 +20,12 @@ mathematical rigor.
 <ul style="list-style-type:disc">
 <li> Geometry, Information theory and Manifold Optimization </li>
 <li> Reservoir Computing: Universality, Operator Algebra, and Kernel Machines </li>
+<li> Symplectic Geometry and Representational Learning </li>
 </ul>
 <!-- My research focuses on bridging the theoretical and applied aspects of optimization methods,
 dynamical systems, information theory and geometry. -->
 
-Keywords: Optimization, Information Geometry, Differential Geometry, Reservoir Computing
+Keywords: Optimization, Information Geometry, Differential Geometry, Reservoir Computing, Representational Learning, Symplectic Geometry
 
 Background & History
 ======
